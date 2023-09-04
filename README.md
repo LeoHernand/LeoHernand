@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoHernand
 - 👀 I’m interested in Python, Atlassian Products, SQL, Excel, PowerBI
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate in Excel
+- 💞️ I’m looking to collaborate in ETL related projects
 
 
 <!---
